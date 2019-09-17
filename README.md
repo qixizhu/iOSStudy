@@ -18,3 +18,9 @@ iOS 简易教程：知识整理
 7. [Cocoapods的安装及使用](https://github.com/qixizhu/iOSStudy/blob/master/source/7.Cocoapods的安装及使用.md)
 8. [常用第三方库](https://github.com/qixizhu/iOSStudy/blob/master/source/8.常用第三方库.md)
 9. [练习](https://github.com/qixizhu/iOSStudy/blob/master/source/9.练习.md)
+
+#### Author
+qixizhu, hanqi_ah@163.com
+
+#### License
+PHCyclePictureView is available under the MIT license. See the LICENSE file for more info.
