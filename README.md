@@ -23,4 +23,4 @@ iOS 简易教程：知识整理
 qixizhu, hanqi_ah@163.com
 
 #### License
-PHCyclePictureView is available under the MIT license. See the LICENSE file for more info.
+iOSStudy is available under the MIT license. See the LICENSE file for more info.
