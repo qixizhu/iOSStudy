@@ -6,7 +6,7 @@ iOS 简易教程：知识整理
 
 #### 推荐
 * [官方开发者网站](https://developer.apple.com/)，包含各种教程以及知识，如设计、视频、文档等，几乎所有的都能在这里找到。
-* [航哥-Swift专区](https://www.hangge.com/)，适合新手的教程。
+* [航哥-Swift专区](https://www.hangge.com/)，适合新手的知识点汇总。
 
 #### 目录
 1. [开发语言Swift](https://github.com/qixizhu/iOSStudy/blob/master/source/1.开发语言Swift.md)
