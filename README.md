@@ -9,8 +9,8 @@ iOS 简易教程：知识整理
 * [航哥-Swift专区](https://www.hangge.com/)，适合新手的知识点汇总。
 
 #### 目录
-1. [开发语言Swift](https://github.com/qixizhu/iOSStudy/blob/master/source/1.开发语言Swift.md)
-2. [开发工具 Xcode](https://github.com/qixizhu/iOSStudy/blob/master/source/2.开发工具Xcode.md)
+1. [开发工具 Xcode](https://github.com/qixizhu/iOSStudy/blob/master/source/1.开发工具Xcode.md)
+2. [开发语言Swift](https://github.com/qixizhu/iOSStudy/blob/master/source/2.开发语言Swift.md)
 3. [开发模式——MVC](https://github.com/qixizhu/iOSStudy/blob/master/source/3.开发模式MVC.md)
 4. [开发iOSAPP初体验](https://github.com/qixizhu/iOSStudy/blob/master/source/4.开发iOSAPP初体验.md)
 5. [人机界面指南](https://github.com/qixizhu/iOSStudy/blob/master/source/5.人机界面指南.md)
